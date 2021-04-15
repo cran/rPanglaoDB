@@ -1,0 +1,14 @@
+98d19bb05c74a5e0532bd1a6b4abdeb1 *DESCRIPTION
+4b199e8b847c90ddb8d3124d08eeddfa *NAMESPACE
+dfe33758bb5132b0eb04ff96ff3c28c0 *R/getMarkers.R
+7cd16e4121140aaba9c010ca648686ad *R/getSampleComposition.R
+9fbcbf62aa22db676afda34da94cc789 *R/getSampleList.R
+c73360b01dd38f777173ce3e9e98e95e *R/getSamples.R
+357d8182e13bbf0c015294f782ab519c *R/mergeExperiments.R
+11104816b20bbb5813996b0b17cb6951 *R/scQC.R
+91d9109b08a10eee8e682924aaa86cc2 *R/summarizeReport.R
+2ef3a0e9ed64201ae027617d1c505fb0 *README.md
+04e6b4a81caa45ee345ee3c017736dab *man/getMarkers.Rd
+1a35fdaa88a8fd4a5f0083d7f9fc808b *man/getSampleComposition.Rd
+f2ccece015f16f5b2ec35a59f7e56b2f *man/getSampleList.Rd
+3c6502a47630cc0bdac0a96bb3bec05e *man/getSamples.Rd
